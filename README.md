@@ -1,4 +1,4 @@
-# ForgeVR Graphics Engine
+# FairgrieveVR Graphics Engine
 
 A custom VR/graphics engine built from scratch to master low-level rendering systems.
 
